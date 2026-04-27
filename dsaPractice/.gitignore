@@ -1,0 +1,48 @@
+# =========================
+# Java compiled files
+# =========================
+*.class
+
+# =========================
+# Build folders
+# =========================
+bin/
+target/
+out/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Eclipse specific files
+# =========================
+.metadata/
+.settings/
+.loadpath
+
+# Optional (ignore if working solo)
+.project
+.classpath
+
+# =========================
+# OS files (Mac/Windows)
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.bak
+*.swp
+*~
+
+# =========================
+# IDEs (optional)
+# =========================
+.vscode/
+.idea/
+*.iml
